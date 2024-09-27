@@ -7,10 +7,10 @@ Este é um projeto feito na aula do DevQuest ensinando a fazer uma landing Page 
 ## Prévia
 
 ### Desktop Preview
-![Desktop Preview](../DevQuest---Landing-Page/src/Previews/agencia_xyz.gif)
+![Desktop Preview](./src/Previews/agencia_xyz.gif)
 
 ### Mobile Preview
-![Desktop Preview](../DevQuest---Landing-Page/src/Previews/agencia_xyz_responsivo.gif)
+![Desktop Preview](./src/Previews/agencia_xyz_responsivo.gif)
 
 ### Links
 
