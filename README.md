@@ -15,7 +15,7 @@ Este é um projeto feito na aula do DevQuest ensinando a fazer uma landing Page 
 ### Links
 
 LinkedIn: [Meu perfil do LinkedIn](www.linkedin.com/in/ramon-alvez) 
-Live Site: [Prévia do Site]()
+Live Site: [Prévia do Site](https://ramon-alvez.github.io/DevQuest---Landing-Page/)
 
 ## Agradecimentos
 
